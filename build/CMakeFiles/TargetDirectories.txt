@@ -1,0 +1,3 @@
+/home/ilya-kalinin/car_trinket/build/CMakeFiles/rebuild_cache.dir
+/home/ilya-kalinin/car_trinket/build/CMakeFiles/car_trinket.dir
+/home/ilya-kalinin/car_trinket/build/CMakeFiles/edit_cache.dir

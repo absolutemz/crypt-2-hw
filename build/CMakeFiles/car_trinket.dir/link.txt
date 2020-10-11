@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/car_trinket.dir/main.cpp.o CMakeFiles/car_trinket.dir/project/src/HCR_funcs.cpp.o CMakeFiles/car_trinket.dir/project/src/sig.cpp.o CMakeFiles/car_trinket.dir/project/src/crypt.cpp.o -o car_trinket  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
